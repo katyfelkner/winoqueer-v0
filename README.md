@@ -5,7 +5,8 @@ Our paper, [Towards Winoqueer: Developing a Benchmark for Anti-Queer Bias in Lar
 
 ## Repo contents:
 ### Finetuning Data
-Our news and twitter datasets are included as .pkl files. Unpickle them to view and use our data!
+Finetuning Data are currently down because of licensing concerns - sorry for the outage. Expect the correct data to be posted on or before 
+09/09.
 
 ### Finetuning Scripts
 Scripts use to preprocess data (segment and normalize) and finetune models. Tweets are normalized using [TweetNormalizer from BERTweet](https://github.com/VinAIResearch/BERTweet/blob/master/TweetNormalizer.py).
