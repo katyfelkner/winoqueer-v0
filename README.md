@@ -1,4 +1,4 @@
-# winoqueer
+# winoqueer-v0
 Benchmark dataset for anti-queer bias in large language models (LLMs)
 
 Our paper, [Towards Winoqueer: Developing a Benchmark for Anti-Queer Bias in Large Language Models](https://arxiv.org/abs/2206.11484),  was published in the QueerInAI workshop at NAACL 2022!
